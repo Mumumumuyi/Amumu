@@ -1,0 +1,85 @@
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 用户配置和数据
+NTUSER*
+ntuser.*
+AppData/
+Application Data/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+Start Menu/
+「开始」菜单/
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+.codex/
+
+# 忽略的隐藏目录
+.MUMUVMM/
+.ai_completion/
+.android/
+.cache/
+.cherrystudio/
+.claude.json.backup*
+.claude/
+.config/
+.cursor/
+.degit/
+.docker/
+.electron-gyp/
+.local/
+.m2/
+.matplotlib/
+.npmrc
+.ollama/
+.qwen/
+.redhat/
+.rustup/
+.ssh/
+.streamlit/
+.trae-cn/
+.xhs_system/
+.minimax-agent-cn/
+.cc-switch/
+
+# 日志和临时文件
+*.log
+*.tmp
+*.temp
+playwright-mcp-server.log
+xwechat_files/
+
+# 其他
+3D Objects/
+Contacts/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Searches/
+Saved Games/
+Videos/
+WPS Cloud Files/
+WPSDrive/
+ai_completion/
+github/
+install.cmd
+curl
+nul
